@@ -5,13 +5,14 @@
 ### 1. 建立一個新的資料庫，取名字為website。
 
 使用 create database *資料庫名稱* 新建資料庫
+
 ![2-1](https://user-images.githubusercontent.com/76685877/112131682-c6eb4f80-8c04-11eb-8f74-b7d00c35290f.png)
 
  
 ### 2. 在資料庫中，建立資料表，取名字為user。資料表中必須包含以下欄位設定：
 
 **在資料庫中建立表格，並且設定各欄位資料型態 **
-**語法：create table *表名稱*() **
+**語法：create table *表名稱*()
 ![2-2](https://user-images.githubusercontent.com/76685877/112131686-c783e600-8c04-11eb-8bac-5a77ec1db9ad.png)
 **這部分在設定的時候，忘記加上password的欄位:hear_no_evil:，所以再補上password欄位**
 **語法：alter table *表名稱* add column *新增的欄位名與格式設定* after *在哪個欄位後* **
