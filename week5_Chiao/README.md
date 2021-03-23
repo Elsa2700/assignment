@@ -16,6 +16,7 @@
 
 ![2-2](https://user-images.githubusercontent.com/76685877/112131686-c783e600-8c04-11eb-8bac-5a77ec1db9ad.png)
 這部分在設定的時候，忘記加上password的欄位:hear_no_evil:，所以再補上password欄位
+
 語法：alter table *表名稱* add column *新增的欄位名與格式設定* after *在哪個欄位後*
 
 ![2-2-1](https://user-images.githubusercontent.com/76685877/112131687-c81c7c80-8c04-11eb-819a-909fce62d509.png)
@@ -89,6 +90,7 @@
 ### 9. 使用 DELETE 指令刪除所有在 user 資料表中的資料。
 語法：delete from *表名稱*
 結果顯示empty
+
 ![3-9](https://user-images.githubusercontent.com/76685877/112131712-cce13080-8c04-11eb-8e49-c7381412e26c.png)
 
 
@@ -116,6 +118,7 @@
 會員user表格的內容(同前述user表格)
 
 ![4-2-3](https://user-images.githubusercontent.com/76685877/112131720-ce125d80-8c04-11eb-877e-e0365cf4774d.png)
+
 利用join的方式，取得所有留言中，對應的會員姓名
 語法：select *呈現的欄位資料(留言id、留言內容、留言時間、會員姓名)* from *表格一* inner join *表格二* on *表格二.對應欄位*=*表格一.對應欄位*
 
