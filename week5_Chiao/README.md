@@ -14,9 +14,10 @@
 在資料庫中建立表格，並且設定各欄位資料型態 
 
 語法：create table **表名稱**( )
+
 其中，欄位名稱time需做以下兩個設定:
 1. 預設為目前時間: default current_timestamp
-2. 自動更新時間: 
+2. 自動更新時間: on update current_timestamp
 
 ![2-2](https://user-images.githubusercontent.com/76685877/112131686-c783e600-8c04-11eb-8bac-5a77ec1db9ad.png)
 這部分在設定的時候，忘記加上password的欄位:hear_no_evil:，所以再補上password欄位
