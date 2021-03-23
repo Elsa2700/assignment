@@ -1,6 +1,6 @@
 # 第五周作業 
 
-## 要求二:建立資料庫和資料表
+## :tropical_fish:要求二:建立資料庫和資料表:tropical_fish:
 
 ### 1. 建立一個新的資料庫，取名字為website。:whale:
 
@@ -35,7 +35,7 @@
 
  
  
- ## 要求三：基本的 SQL 指令
+ ## :tropical_fish:要求三：基本的 SQL 指令:tropical_fish:
 
 
 ### 1. 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。:whale:
@@ -108,7 +108,7 @@
 
 
 
- ## 要求四：結合資料表 SQL JOIN 的操作 (Optional)
+ ## :tropical_fish:要求四：結合資料表 SQL JOIN 的操作 (Optional):tropical_fish:
 
  
 ### 1. 在資料庫中，建立新資料表，取名字為message。資料表中必須包含以下欄位設定：:whale:
