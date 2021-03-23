@@ -11,14 +11,14 @@
  
 ### 2. 在資料庫中，建立資料表，取名字為user。資料表中必須包含以下欄位設定：
 
-**在資料庫中建立表格，並且設定各欄位資料型態 **
-**語法：create table *表名稱*()
+在資料庫中建立表格，並且設定各欄位資料型態 
+語法：create table *表名稱*()
 ![2-2](https://user-images.githubusercontent.com/76685877/112131686-c783e600-8c04-11eb-8bac-5a77ec1db9ad.png)
-**這部分在設定的時候，忘記加上password的欄位:hear_no_evil:，所以再補上password欄位**
-**語法：alter table *表名稱* add column *新增的欄位名與格式設定* after *在哪個欄位後* **
+這部分在設定的時候，忘記加上password的欄位:hear_no_evil:，所以再補上password欄位
+語法：alter table *表名稱* add column *新增的欄位名與格式設定* after *在哪個欄位後*
 ![2-2-1](https://user-images.githubusercontent.com/76685877/112131687-c81c7c80-8c04-11eb-819a-909fce62d509.png)
-**這是user表格中五個欄位的設定結果: **
-**語法：describe *表名稱* 顯示**
+這是user表格中五個欄位的設定結果: 
+語法：describe *表名稱* 顯示
 ![2-2-2](https://user-images.githubusercontent.com/76685877/112131689-c8b51300-8c04-11eb-83a5-24c26b5e1455.png)
 
 
