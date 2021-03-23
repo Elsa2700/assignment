@@ -4,7 +4,7 @@
 
 ### 1. 建立一個新的資料庫，取名字為website。
 
-**使用 create database *資料庫名稱* 新建資料庫**
+**使用 create database *資料庫名稱* 新建資料庫
 ![2-1](https://user-images.githubusercontent.com/76685877/112131682-c6eb4f80-8c04-11eb-8f74-b7d00c35290f.png)
 
  
