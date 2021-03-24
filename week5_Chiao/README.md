@@ -116,6 +116,7 @@
 ### 1. 在資料庫中，建立新資料表，取名字為message。資料表中必須包含以下欄位設定：:whale:
 
 語法：insert into **表名稱**(**欄位名稱**) values(**對應欄位的內容**)
+
 其中表格message中的user_id的欄位設定為外鍵foreign key，並且根據表格user中的id欄位，也就是說message中的user_id的欄位都要來自表格user中的id欄位的內容
 
 ![4-1](https://user-images.githubusercontent.com/76685877/112131715-cce13080-8c04-11eb-8f3f-0756bcc2ab93.png)
@@ -125,6 +126,7 @@
 ### 2. 使用 SELECT 搭配 JOIN 的語法，取得所有留言，資料中須包含留言會員的姓名。:whale:
 
 語法：insert into **表名稱**(**欄位名稱**) values(**對應欄位的內容**)
+
 依序加上三筆留言的內容，分別是id為1和3的會員，這裡刻意讓id為1的會員做兩次的留言
 
 ![4-2](https://user-images.githubusercontent.com/76685877/112131716-cd79c700-8c04-11eb-9599-098a16e29778.png)
