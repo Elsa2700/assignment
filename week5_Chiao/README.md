@@ -69,7 +69,7 @@
 
 語法：select (star*) from *表名稱* order by **排序的欄位名稱** desc(由近到遠)
 
-![3-4](https://user-images.githubusercontent.com/76685877/112131701-cb176d00-8c04-11eb-8453-9f4cbe7a4b66.png)
+![3-4-r](https://user-images.githubusercontent.com/76685877/112248673-47f02880-8c91-11eb-93f9-a169c65aed69.png)
 
  
 ### 5. 使用 SELECT 指令取得 user 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，由近到遠排序。:whale:
@@ -78,7 +78,7 @@
 
 語法：limit **起始數(n-1)**, **count**
 
-![3-5-r](https://user-images.githubusercontent.com/76685877/112246555-d6fb4180-8c8d-11eb-9c40-cdb6d5418792.png)
+![3-5-r2](https://user-images.githubusercontent.com/76685877/112248675-4888bf00-8c91-11eb-85d3-e0bd722763ad.png)
 
  
 ### 6. 使用 SELECT 指令取得欄位 username 是 ply 的使用者資料。:whale:
